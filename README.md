@@ -1,1 +1,1 @@
-test_repo です
+test_repo2
